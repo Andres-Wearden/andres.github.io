@@ -1,0 +1,52 @@
+/* styles.css */
+
+/* CSS Selector applied to an HTML tag */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Class applied to multiple elements */
+.title {
+  color: blue;
+  font-size: 24px;
+  text-align: center;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+#unique-element {
+  color: green;
+  font-size: 28px;
+  text-decoration: underline;
+}
+
+.section {
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+.hover-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.hover-link:hover {
+  color: red;
+}
+
+.box-model {
+  padding: 20px;
+  margin: 15px;
+  border: 2px solid black;
+  background-color: lightblue;
+}
+
+
+
